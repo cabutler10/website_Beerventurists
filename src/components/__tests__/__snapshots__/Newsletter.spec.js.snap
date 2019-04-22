@@ -1,0 +1,108 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Newsletter renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Hook-containerNewsletter-1aq479i"
+      >
+        <button
+          class="MuiButtonBase-root-34 MuiButton-root-8 MuiButton-contained-19 MuiButton-containedPrimary-20 MuiButton-raised-22 MuiButton-raisedPrimary-23 MuiButton-fullWidth-33 Hook-button-1j9lk2z"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiButton-label-9"
+          >
+            newsletter.signUp
+          </span>
+          <span
+            class="MuiTouchRipple-root-53"
+          />
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Hook-containerNewsletter-1aq479i"
+    >
+      <button
+        class="MuiButtonBase-root-34 MuiButton-root-8 MuiButton-contained-19 MuiButton-containedPrimary-20 MuiButton-raised-22 MuiButton-raisedPrimary-23 MuiButton-fullWidth-33 Hook-button-1j9lk2z"
+        tabindex="0"
+        type="button"
+      >
+        <span
+          class="MuiButton-label-9"
+        >
+          newsletter.signUp
+        </span>
+        <span
+          class="MuiTouchRipple-root-53"
+        />
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

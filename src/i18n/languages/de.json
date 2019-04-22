@@ -1,0 +1,29 @@
+{
+  "header": {
+    "breweries": "breweries",
+    "bars": "bars",
+    "shops": "shops",
+    "guides": "guides"
+  },
+  "footer": {
+    "messageTitle": "send us a message",
+    "message": "message",
+    "messageSubtitle": "Questions, comments, need some tips about Munich? Please do not hesitate to reach out to us!",
+    "send": "send",
+    "links": "Get to know Munich",
+    "imprint": "imprint",
+    "privacy": "privacy"
+  },
+  "common": {
+    "name": "name",
+    "email": "email",
+    "subscribe": "subscribe",
+    "subscribeText": "join to learn about our latest adventures",
+    "newsletter": "newsletter",
+    "signup": "sign up"
+  },
+  "about": {
+    "sectionTitle": "Travel. Adventure. Beer.",
+    "message": "Your Guide to Breweries, Bars and Adventure in Munich"
+  }
+}

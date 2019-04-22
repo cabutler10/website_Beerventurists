@@ -1,0 +1,342 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewProduct renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Hook-root-4tpnh3"
+      >
+        <div
+          class="Hook-swipeable-dm2c3l"
+          style="overflow-x: hidden;"
+        >
+          <div
+            class="react-swipeable-view-container"
+            style="flex-direction: row; direction: ltr; display: flex;"
+          >
+            <div
+              aria-hidden="false"
+              data-swipeable="true"
+              style="width: 100%; overflow: auto;"
+            >
+              <div
+                class="Hook-container-tyi15w"
+              >
+                <img
+                  alt="newProduct.imgAlt"
+                  class="Hook-img-s72kmn"
+                  src="test-file-stub"
+                />
+                <div
+                  class="MuiPaper-root-1 MuiPaper-elevation10-13 MuiPaper-rounded-2 Hook-paper-1mqrwu0"
+                >
+                  <img
+                    alt="hangers"
+                    class="Hook-logo-o73udg"
+                    src="test-file-stub"
+                  />
+                  <p
+                    class="MuiTypography-root-28 MuiTypography-body1-37 Hook-title-x9r4ot"
+                  >
+                    Hidden Surfboard Wall Rack
+                  </p>
+                  <p
+                    class="MuiTypography-root-28 MuiTypography-body1-37"
+                  >
+                    newProduct.text_hangers
+                  </p>
+                  <a
+                    class="MuiButtonBase-root-90 MuiButton-root-64 MuiButton-outlined-72 MuiButton-outlinedPrimary-73 Hook-button-nc4rca"
+                    href="https://amzn.to/2BHjz9U"
+                    rel="noopener"
+                    role="button"
+                    tabindex="0"
+                    target="_blank"
+                  >
+                    <span
+                      class="MuiButton-label-65"
+                    >
+                      common.more
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root-116"
+                    />
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiPaper-root-1 MuiPaper-elevation0-3 MuiMobileStepper-root-93 MuiMobileStepper-positionStatic-96 Hook-mobileStepper-1equy9r"
+        >
+          <button
+            aria-label="common.scrollRight"
+            class="MuiButtonBase-root-90 MuiButtonBase-disabled-91 MuiIconButton-root-101 MuiIconButton-disabled-105 Hook-backButton-bt65j5"
+            disabled=""
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label-106"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-107"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </span>
+          </button>
+          <div
+            class="MuiMobileStepper-dots-97"
+          >
+            <div
+              class="MuiMobileStepper-dot-98 MuiMobileStepper-dotActive-99"
+            />
+            <div
+              class="MuiMobileStepper-dot-98"
+            />
+          </div>
+          <button
+            aria-label="common.scrollLeft"
+            class="MuiButtonBase-root-90 MuiIconButton-root-101 Hook-nextButton-16c57dm"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiIconButton-label-106"
+            >
+              <svg
+                aria-hidden="true"
+                class="MuiSvgIcon-root-107"
+                focusable="false"
+                role="presentation"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+                />
+                <path
+                  d="M0 0h24v24H0V0z"
+                  fill="none"
+                />
+              </svg>
+            </span>
+            <span
+              class="MuiTouchRipple-root-116"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Hook-root-4tpnh3"
+    >
+      <div
+        class="Hook-swipeable-dm2c3l"
+        style="overflow-x: hidden;"
+      >
+        <div
+          class="react-swipeable-view-container"
+          style="flex-direction: row; direction: ltr; display: flex;"
+        >
+          <div
+            aria-hidden="false"
+            data-swipeable="true"
+            style="width: 100%; overflow: auto;"
+          >
+            <div
+              class="Hook-container-tyi15w"
+            >
+              <img
+                alt="newProduct.imgAlt"
+                class="Hook-img-s72kmn"
+                src="test-file-stub"
+              />
+              <div
+                class="MuiPaper-root-1 MuiPaper-elevation10-13 MuiPaper-rounded-2 Hook-paper-1mqrwu0"
+              >
+                <img
+                  alt="hangers"
+                  class="Hook-logo-o73udg"
+                  src="test-file-stub"
+                />
+                <p
+                  class="MuiTypography-root-28 MuiTypography-body1-37 Hook-title-x9r4ot"
+                >
+                  Hidden Surfboard Wall Rack
+                </p>
+                <p
+                  class="MuiTypography-root-28 MuiTypography-body1-37"
+                >
+                  newProduct.text_hangers
+                </p>
+                <a
+                  class="MuiButtonBase-root-90 MuiButton-root-64 MuiButton-outlined-72 MuiButton-outlinedPrimary-73 Hook-button-nc4rca"
+                  href="https://amzn.to/2BHjz9U"
+                  rel="noopener"
+                  role="button"
+                  tabindex="0"
+                  target="_blank"
+                >
+                  <span
+                    class="MuiButton-label-65"
+                  >
+                    common.more
+                  </span>
+                  <span
+                    class="MuiTouchRipple-root-116"
+                  />
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiPaper-root-1 MuiPaper-elevation0-3 MuiMobileStepper-root-93 MuiMobileStepper-positionStatic-96 Hook-mobileStepper-1equy9r"
+      >
+        <button
+          aria-label="common.scrollRight"
+          class="MuiButtonBase-root-90 MuiButtonBase-disabled-91 MuiIconButton-root-101 MuiIconButton-disabled-105 Hook-backButton-bt65j5"
+          disabled=""
+          tabindex="-1"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label-106"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root-107"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.41 16.59L10.83 12l4.58-4.59L14 6l-6 6 6 6 1.41-1.41z"
+              />
+              <path
+                d="M0 0h24v24H0V0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+        </button>
+        <div
+          class="MuiMobileStepper-dots-97"
+        >
+          <div
+            class="MuiMobileStepper-dot-98 MuiMobileStepper-dotActive-99"
+          />
+          <div
+            class="MuiMobileStepper-dot-98"
+          />
+        </div>
+        <button
+          aria-label="common.scrollLeft"
+          class="MuiButtonBase-root-90 MuiIconButton-root-101 Hook-nextButton-16c57dm"
+          tabindex="0"
+          type="button"
+        >
+          <span
+            class="MuiIconButton-label-106"
+          >
+            <svg
+              aria-hidden="true"
+              class="MuiSvgIcon-root-107"
+              focusable="false"
+              role="presentation"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M8.59 16.59L13.17 12 8.59 7.41 10 6l6 6-6 6-1.41-1.41z"
+              />
+              <path
+                d="M0 0h24v24H0V0z"
+                fill="none"
+              />
+            </svg>
+          </span>
+          <span
+            class="MuiTouchRipple-root-116"
+          />
+        </button>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

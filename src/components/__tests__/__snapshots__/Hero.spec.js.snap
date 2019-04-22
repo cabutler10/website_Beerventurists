@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Hero renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="Hook-root-1ko8ali"
+      >
+        <div
+          class="Hook-img-fsctee gatsby-image-wrapper"
+          style="position: absolute; overflow: hidden;"
+        >
+          <div
+            style="width: 100%;"
+          />
+          <picture>
+            <img
+              alt="wave"
+              sizes="mockString"
+              src="mockString"
+              srcset="mockString"
+              style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 0;"
+            />
+          </picture>
+          <noscript>
+            &lt;picture&gt;&lt;img sizes="mockString" srcset="mockString" src="mockString" alt="wave" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
+          </noscript>
+        </div>
+        <div
+          class="Hook-container-jdq4g6"
+        >
+          <h2
+            class="MuiTypography-root-1 MuiTypography-h2-14 MuiTypography-gutterBottom-28 Hook-text-n934yh Hook-title-1hy883f"
+          >
+            E
+            <span
+              class="Hook-small-d5kd93"
+            >
+              ISBACH
+            </span>
+          </h2>
+          <h2
+            class="MuiTypography-root-1 MuiTypography-h2-14 MuiTypography-gutterBottom-28 Hook-text-n934yh Hook-title-1hy883f Hook-title2-z9aol5"
+          >
+            R
+            <span
+              class="Hook-small-d5kd93"
+            >
+              IDERS
+            </span>
+          </h2>
+          <p
+            class="MuiTypography-root-1 MuiTypography-body1-10 Hook-text-n934yh Hook-subtitle-mygehx"
+          >
+            hero.subtitle
+          </p>
+          <div
+            class="Hook-containerNewsletter-1aq479i"
+          >
+            <button
+              class="MuiButtonBase-root-70 MuiButton-root-44 MuiButton-contained-55 MuiButton-containedPrimary-56 MuiButton-raised-58 MuiButton-raisedPrimary-59 MuiButton-fullWidth-69 Hook-button-1j9lk2z"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="MuiButton-label-45"
+              >
+                newsletter.signUp
+              </span>
+              <span
+                class="MuiTouchRipple-root-89"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="Hook-root-1ko8ali"
+    >
+      <div
+        class="Hook-img-fsctee gatsby-image-wrapper"
+        style="position: absolute; overflow: hidden;"
+      >
+        <div
+          style="width: 100%;"
+        />
+        <picture>
+          <img
+            alt="wave"
+            sizes="mockString"
+            src="mockString"
+            srcset="mockString"
+            style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; opacity: 0;"
+          />
+        </picture>
+        <noscript>
+          &lt;picture&gt;&lt;img sizes="mockString" srcset="mockString" src="mockString" alt="wave" style="position:absolute;top:0;left:0;opacity:1;width:100%;height:100%;object-fit:cover;object-position:center"/&gt;&lt;/picture&gt;
+        </noscript>
+      </div>
+      <div
+        class="Hook-container-jdq4g6"
+      >
+        <h2
+          class="MuiTypography-root-1 MuiTypography-h2-14 MuiTypography-gutterBottom-28 Hook-text-n934yh Hook-title-1hy883f"
+        >
+          E
+          <span
+            class="Hook-small-d5kd93"
+          >
+            ISBACH
+          </span>
+        </h2>
+        <h2
+          class="MuiTypography-root-1 MuiTypography-h2-14 MuiTypography-gutterBottom-28 Hook-text-n934yh Hook-title-1hy883f Hook-title2-z9aol5"
+        >
+          R
+          <span
+            class="Hook-small-d5kd93"
+          >
+            IDERS
+          </span>
+        </h2>
+        <p
+          class="MuiTypography-root-1 MuiTypography-body1-10 Hook-text-n934yh Hook-subtitle-mygehx"
+        >
+          hero.subtitle
+        </p>
+        <div
+          class="Hook-containerNewsletter-1aq479i"
+        >
+          <button
+            class="MuiButtonBase-root-70 MuiButton-root-44 MuiButton-contained-55 MuiButton-containedPrimary-56 MuiButton-raised-58 MuiButton-raisedPrimary-59 MuiButton-fullWidth-69 Hook-button-1j9lk2z"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="MuiButton-label-45"
+            >
+              newsletter.signUp
+            </span>
+            <span
+              class="MuiTouchRipple-root-89"
+            />
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllBySelectText": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getAllByValue": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getBySelectText": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "getByValue": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllBySelectText": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryAllByValue": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryBySelectText": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "queryByValue": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
