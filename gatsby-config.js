@@ -65,6 +65,14 @@ module.exports = {
     //   },
     // },
     //`gatsby-plugin-feed`,
+    {
+      resolve: `gatsby-source-instagram`,
+      options: {
+        username: `beerventurists`,
+        access_token: 'a valid access token',
+        instagram_id: 'your instagram_business_account id',
+      },
+    },
     'gatsby-plugin-top-layout',
     {
       resolve: 'gatsby-plugin-material-ui',
